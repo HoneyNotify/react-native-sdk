@@ -14,7 +14,7 @@ The React Native SDK registers the correct native provider token—APNs on iOS a
 ## Install
 
 ```bash
-npm install github:HoneyNotify/react-native-sdk \
+npm install @honeynotify/react-native \
   @react-native-firebase/app @react-native-firebase/messaging \
   @react-native-async-storage/async-storage
 cd ios && pod install

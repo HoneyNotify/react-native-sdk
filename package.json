@@ -1,14 +1,25 @@
 {
   "name": "@honeynotify/react-native",
   "version": "0.1.0",
-  "private": true,
   "license": "MIT",
   "description": "HoneyNotify device registration and notification lifecycle SDK for React Native",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoneyNotify/react-native-sdk.git"
+  },
+  "homepage": "https://github.com/HoneyNotify/react-native-sdk#readme",
+  "bugs": {
+    "url": "https://github.com/HoneyNotify/react-native-sdk/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "files": [
     "src",
-    "README.md"
+    "README.md",
+    "CHANGELOG.md"
   ],
   "scripts": {
     "test": "node --test test/*.test.js"
