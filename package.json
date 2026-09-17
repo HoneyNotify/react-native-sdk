@@ -1,7 +1,8 @@
 {
   "name": "@honeynotify/react-native",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "description": "HoneyNotify device registration and notification lifecycle SDK for React Native",
   "main": "src/index.js",
   "types": "src/index.d.ts",
