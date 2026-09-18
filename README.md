@@ -1,6 +1,6 @@
 # HoneyNotify React Native SDK
 
-The React Native SDK registers the correct native provider token—APNs on iOS and FCM on Android—then handles HoneyNotify identity, token refresh, payload parsing, and lifecycle events.
+The React Native SDK registers the correct native provider token-APNs on iOS and FCM on Android-then handles HoneyNotify identity, token refresh, payload parsing, and lifecycle events.
 
 ## Requirements
 
